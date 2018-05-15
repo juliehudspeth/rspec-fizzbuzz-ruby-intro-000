@@ -3,6 +3,6 @@ def fizzbuzz (int)
     puts "Fizz"
   elsif int % 5 == 0
     puts nil
-  else 
+  else
     puts "ArgumentError"
 end
